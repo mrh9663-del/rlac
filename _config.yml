@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mark Habib"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A few curious yet procrastinating human who's worst enemy is assignments"
+  bio    : "A bio that should be about me"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
