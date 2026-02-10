@@ -5,7 +5,7 @@ title: "Assignment 1: The Evolution of Control"
 
 # The Evolution of Control: From Hardware to Software in Cyberpunk Fiction
 
-**Date:** [put submission date here]
+**Date:** 12/02/2026
 
 ---
 
