@@ -49,17 +49,17 @@ I used Voyant Tools because it is accessible, visual, and well suited for compar
 
 ### Analysis Process
 
-The corpus was divided into two time-based groups. I then used Voyant's Trends, Cirrus (word cloud), and Links tools to examine differences in vocabulary, word relationships, and thematic focus.
+All texts were uploaded into Voyant as a single combined corpus. I then used Voyant’s (trends, cirrus, and links) tools to compare word frequencies and patterns across documents, interpreting differences based on the time period and author of each text.
 
 ### Key Findings
 
 #### Finding 1: The Shift from Metal to Network
 
-Using the Trends tool, I compared the words "metal" and "network" across the corpus.
+Using the Trends tool, I compared the words "metal" and "network" along with any other letter attached to the words before or after such as "networks" across the corpus.
 
 **Result:**
 
-As shown in Figure 1, "metal" appears frequently in the Philip K. Dick stories but almost disappears in the modern texts. "Network" does not appear at all in the 1950s stories but spikes sharply in the Cory Doctorow stories.
+As shown in Figure 1, "metal" appears frequently in the Philip K. Dick stories yet almost disappears in the modern texts. "Network" does not appear at all in the 1950s stories but spikes sharply in the Cory Doctorow stories.
 
 **Meaning:**
 
