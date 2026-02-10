@@ -9,9 +9,9 @@ Here are all the assignments for this course:
 
 ---
 
-## [Assignment 1: The Evolution of Control: From Hardware to Software in Cyberpunk Fiction](/assignments/assignment-1/)
+## [Assignment 1: The Evolution of Control](/assignments/assignment-1/)
 
-A computational text analysis project examining how cyberpunk fiction shifts from physical, industrial technology to digital, software-based systems through analysis of Philip K. Dick and Cory Doctorow stories.
+A computational text analysis project examining how cyberpunk fiction shifts from physical, industrial technology to digital, software-based systems.
 
 ---
 
@@ -24,12 +24,6 @@ Coming soon...
 ## [Assignment 3](/assignments/assignment-3/)
 
 Coming soon...
-
----
-
-## Introduction
-
-Cyberpunk stories have always been about fear. Fear of technology, fear of losing control, and fear of what happens when humans are no longer on top. But the kind of technology people fear has changed over time. This project looks at how cyberpunk fiction shifts from physical, industrial technology to digital, software-based systems. Instead of reading each story closely, I use computational text analysis to look for patterns across multiple texts at once.
 
 ⸻
 
