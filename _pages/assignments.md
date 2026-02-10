@@ -3,8 +3,6 @@ permalink: /assignments/
 title: "Assignments"
 ---
 
-# Assignments
-
 Here are all the assignments for this course:
 
 ---
