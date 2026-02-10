@@ -127,8 +127,8 @@ This analysis has several limitations. First, the corpus is small. Eight stories
 
 Second, data cleaning had a major impact on results. Early versions of the analysis were dominated by licensing language. This shows how easily computational analysis can be misleading if the data is not carefully prepared.
 
-Finally, Voyant focuses on frequency, not meaning. It cannot detect irony, tone, or narrative importance.
+Finally, Voyant focuses on frequency, not meaning. It cannot detect irony, tone, or narrative importance. For instance, now adays a word such as cloud can mean a server on the internet, such a meaning for this word didn't exist in the 1950s which can give wrong interpretations of the text. 
 
 ### Future Questions
 
-With a larger corpus, it would be interesting to isolate only Doctorow's texts and examine software-related control more closely. Another direction would be sentiment analysis to compare emotional tone across time.
+With a larger corpus, it would be interesting to isolate only Doctorow's texts and examine software-related control more closely. Another direction would be opionion based analysis to compare emotional tone across time.
