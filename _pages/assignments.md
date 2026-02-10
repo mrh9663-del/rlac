@@ -7,7 +7,7 @@ Here are all the assignments for this course:
 
 ---
 
-## [Assignment 1: The Evolution of Control](/assignments/assignment-1/)
+## [Assignment 1: The Evolution of Control](assignment-1/)
 
 A computational text analysis project examining how cyberpunk fiction shifts from physical, industrial technology to digital, software-based systems.
 
