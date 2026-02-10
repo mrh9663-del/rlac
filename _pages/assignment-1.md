@@ -65,7 +65,7 @@ As shown in Figure 1, "metal" appears frequently in the Philip K. Dick stories b
 
 This shows a clear shift in how the future is imagined. Earlier cyberpunk futures are built from physical materials like steel and machines. Modern cyberpunk futures are built from data, systems, and connections.
 
-![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/Unknown.jpg)
+![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/Unknown.png)
 
 ⸻
 
@@ -81,7 +81,7 @@ As shown in Figure 2, words like "war," "ship," "surface," and "gun" dominate th
 
 This suggests that early cyberpunk focuses heavily on physical conflict and individual actors, often soldiers or men in combat situations. Modern digital terms exist, but they are less visually dominant in the combined corpus.
 
-![Figure 2: Word cloud highlighting dominant physical and military vocabulary.]({{ site.baseurl }}/assets/images/Unknown.png)
+![Figure 2: Word cloud highlighting dominant physical and military vocabulary.]({{ site.baseurl }}/assets/images/Unknown.jpg)
 
 ⸻
 
