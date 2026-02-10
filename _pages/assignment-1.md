@@ -67,6 +67,8 @@ This shows a clear shift in how the future is imagined. Earlier cyberpunk future
 
 ![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/Unknown.png)
 
+*Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.*
+
 ⸻
 
 #### Finding 2: Conflict as Physical Space
@@ -83,6 +85,8 @@ This suggests that early cyberpunk focuses heavily on physical conflict and indi
 
 ![Figure 2: Word cloud highlighting dominant physical and military vocabulary.]({{ site.baseurl }}/assets/images/Unknown.jpg)
 
+*Figure 2: Word cloud highlighting dominant physical and military vocabulary.*
+
 ⸻
 
 #### Finding 3: Control as a Physical Act
@@ -98,6 +102,8 @@ In Figure 3, "control" is closely linked with words like "turret," "ship," and "
 This shows that in the older texts, control usually refers to operating or commanding physical machines or weapons. Control is something you hold with your hands, not something embedded in software or surveillance systems.
 
 ![Figure 3: Network graph showing collocations of the word "control."]({{ site.baseurl }}/assets/images/Unknown-2.png)
+
+*Figure 3: Network graph showing collocations of the word "control."*
 
 ⸻
 
