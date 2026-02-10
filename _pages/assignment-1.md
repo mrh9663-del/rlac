@@ -11,7 +11,7 @@ title: "Assignment 1: The Evolution of Control"
 
 ## Introduction
 
-Cyberpunk stories have always been about fear. Fear of technology, fear of losing control, and fear of what happens when humans are no longer on top. But the kind of technology people fear has changed over time. This project looks at how cyberpunk fiction shifts from physical, industrial technology to digital, software-based systems. Instead of reading each story closely, I use computational text analysis to look for patterns across multiple texts at once.
+Cyberpunk stories have circled fear. Fear of technology, fear of failing to stay in control, and fear of what happens when humans are no longer on top. However, the kind of technology people fear has changed over time. This paper looks at how cyberpunk fiction shifts from physical, industrial technology to digital software based systems. Instead of reading each story closely, I use computational analysis to look for patterns across multiple texts at once.
 
 ⸻
 
@@ -19,25 +19,25 @@ Cyberpunk stories have always been about fear. Fear of technology, fear of losin
 
 ### Corpus Description
 
-My corpus is made up of eight science fiction short stories split into two groups. The first group contains four stories by Philip K. Dick, published around 1953. These texts come from early science fiction and are often seen as foundational to cyberpunk themes. The second group contains four short stories by Cory Doctorow, published between 2004 and 2007, which represent a more modern, post-cyberpunk era.
+My corpus is made up of eight science fiction short stories split into two groups. The first group contains four stories by Philip K. Dick, published around 1953. These texts come from early science fiction and are often viewed as a foundational pillar for cyberpunk themes. The second group contains four short stories by Cory Doctorow, published between 2004 and 2007, which represent a more modern, post cyberpunk era.
 
-All texts were uploaded into Voyant Tools as plain text files. Before analysis, I removed front matter and legal boilerplate so the corpus only contained narrative content.
+All texts were uploaded into [Voyant Tools](https://voyant-tools.org) as plain text files. Before analysis, I removed front matter and legal boilerplate so the corpus only contained narrative content. I also added stop-words to make sure they don't contaminate the results.
 
 ### Why This Corpus
 
-I chose this corpus because Philip K. Dick and Cory Doctorow write in very different technological moments. Dick was writing during the Cold War and the industrial age, while Doctorow writes during the internet and information age. Even though both deal with technology and power, I suspected that the language they use to describe control would be different.
+I chose this corpus because Philip K. Dick and Cory Doctorow write in very different technological moments. Dick was writing during the Cold War and the industrial age, while Doctorow writes during the internet and information age. While both deal with technology and power, I suspected that the language they use to describe control would be different.
 
 ### Research Questions
 
-This project focuses on three main questions:
+This project focuses on three main questions: 
 
 1. Does cyberpunk vocabulary shift from physical and industrial terms (like metal, ship, gun) to digital and abstract terms (like network, system, code)?
-2. How does the idea of control change across time, from physical control of machines to software-based or systemic control?
+2. How does the idea of control change across time, from physical control of machines to software based or systemic control?
 3. Does older cyberpunk rely more on physical violence compared to modern cyberpunk?
 
 ### Why Computational Analysis
 
-A computational approach makes it possible to compare patterns across texts without focusing on just one story. Using Voyant Tools allows me to do distant reading and visualize trends across a 50-year gap. These patterns would be hard to notice through close reading alone.
+A computational approach makes it possible to compare patterns across texts without focusing on just one story in depth. Using Voyant Tools allows me to do distant reading and visualize trends across a 50-year gap. These patterns would be hard to notice through close reading alone.
 
 ⸻
 
