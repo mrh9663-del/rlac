@@ -11,7 +11,22 @@ title: "Assignment 1: The Evolution of Control"
 
 ## Overview
 
-Cyberpunk fiction has always been about the fear of losing control. But as technology evolves, does the language of that fear change? This project uses computational text analysis to compare the "Industrial Cyberpunk" of the 1950s against the "Post-Cyberpunk" of the 2000s. Using [Voyant Tools](https://voyant-tools.org) for exploratory visualization and [R Markdown](https://posit.cloud/) (through posit cloud) for statistical frequency analysis, I track the shift from physical, hardware-based vocabulary to abstract, software-based systems.
+Cyberpunk and speculative fiction have long been shaped by technological anxiety. As technology shifted from the atomic age to the digital age, the language of those fears shifted as well. This project investigates whether the vocabulary of "control" moves from the physical battlefield to the digital network across a fifty year gap in fiction.
+
+### Research Questions
+
+This analysis is guided by three focused questions:
+
+1. **Material Shift:**
+Does the vocabulary shift from industrial and kinetic terms (such as "metal" and "war") in the 1950s to informational and network-based terms (such as "network" and "data") in the 2000s?
+
+2. **Nature of Control:**
+Does the imagined source of threat move from external physical destruction (bombs, machines, war) to internal systemic control (algorithms, corporations, digital infrastructure)?
+
+3. **Method Comparison:**
+What different insights emerge when the same corpus is analyzed using exploratory visualization tools Voyant Tools versus structured statistical analysis R Markdown?
+
+To answer these questions, I use computational text analysis to compare Philip K. Dick's 1950s short fiction with Cory Doctorow's 2000s short fiction. Using [Voyant Tools](https://voyant-tools.org) for exploratory data analysis and [R Markdown](https://posit.cloud/) in Posit Cloud for statistical confirmation, I track how key terms rise, fall, and cluster across a combined corpus.
 
 ⸻
 
@@ -19,18 +34,17 @@ Cyberpunk fiction has always been about the fear of losing control. But as techn
 
 ### The Corpus
 
-My corpus consists of eight short stories divided into two sub-corpora:
+This project analyzes eight short stories: four by Philip K. Dick (The Defenders, Second Variety, The Variable Man, Mr. Spaceship) and four by Cory Doctorow (Anda's Game, When Sysadmins Ruled the Earth, Scroogled, Printcrime). I selected these texts to compare two moments in speculative fiction separated by roughly fifty years. The goal was to test whether the language of technological anxiety shifts from industrial and mechanical vocabulary in 1950s fiction to digital and network-based vocabulary in early twenty-first-century fiction.
 
-- **The 1950s (Hardware):** Four stories by Philip K. Dick.
-- **The 2000s (Software):** Four stories by Cory Doctorow.
+Rather than separating the stories into isolated corpora, I uploaded all eight texts into Voyant as a single dataset. This allowed me to observe how specific words change in prominence across the ordered sequence of files, revealing patterns of transition within one analytical frame.
 
 ### Provenance & Access
 
-I sourced the Philip K. Dick texts from Project Gutenberg, selecting the "Plain Text" versions to ensure compatibility with R and Voyant. Project Gutenberg was chosen for its reliability in preserving public domain science fiction. The Cory Doctorow texts were sourced directly from the author's personal website, Craphound.com. Doctorow publishes his work under Creative Commons licenses, allowing for legal text mining. This combination of Public Domain and Creative Commons texts allowed for a seamless, ethically sourced dataset.
+The Philip K. Dick stories were sourced from [Project Gutenberg](https://www.gutenberg.org) in Plain Text format to ensure compatibility with Voyant Tools and R Markdown. I removed front matter such as licensing text, editorial notes, and metadata so that the corpus contained only narrative content. Project Gutenberg was selected because it provides reliable public domain texts suitable for computational analysis.
 
-### Why This Selection?
+The Cory Doctorow stories were sourced from the author's website, [Craphound.com](https://craphound.com), where they are published under Creative Commons licenses that allow legal text mining. These files were also cleaned to remove non-narrative material before analysis.
 
-I chose this pairing to test a specific hypothesis: that the "Cyberpunk" genre has undergone a fundamental vocabulary shift. Dick writes during the Cold War (fear of bombs/metal), while Doctorow writes in the Internet Age (fear of surveillance/data).
+This corpus was chosen because it offers a comparison across time while remaining consistent in genre and number of words. By focusing only on short speculative fiction, the analysis highlights shifts in technological vocabulary without introducing major generic differences as data contaminating variables.
 
 ⸻
 
@@ -38,7 +52,7 @@ I chose this pairing to test a specific hypothesis: that the "Cyberpunk" genre h
 
 ### Tools Used
 
-I used Voyant Tools because it is accessible, visual, and well suited for comparing word usage across different subsets of a corpus. I applied a stopword list to remove common words, character dialogue markers, and archival metadata such as "Project Gutenberg" and "License."
+I used Voyant Tools because it is accessible, visual, and well suited for comparing word usage across different subsets of a corpus. I applied a stopword list to remove common words, and character dialogue markers. 
 
 ### Analysis Process
 
@@ -56,7 +70,7 @@ As shown in Figure 1, "metal" appears frequently in the Philip K. Dick stories y
 
 **Meaning:**
 
-This shows a clear shift in how the future is imagined. Earlier cyberpunk futures are built from physical materials like steel and machines. Modern cyberpunk futures are built from data, systems, and connections.
+This confirms a shift in cyberpunk futures, physical materials like steel and machines are replaced with systems and digital infrastructure. This directly addresses the research question regarding whether speculative fiction shifts from industrial vocabulary to informational vocabulary over time.
 
 ![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/Unknown.png)
 
@@ -100,28 +114,99 @@ This shows that in the older texts, control usually refers to operating or comma
 
 ⸻
 
-## Section 3: Critical Reflection
+## Section 3: Statistical Confirmation in R Markdown
+
+While Voyant provides exploratory visuals, R Markdown allows structured confirmation.
+
+### Process:
+
+I used R to generate a frequency table of thematic nouns across the combined corpus, focusing on terms like metal, machine, network, system, data.
+
+### Result:
+
+![Figure 4: R Markdown frequency table showing key nouns across the corpus.]({{ site.baseurl }}/assets/images/Unknown-3.png)
+
+### Interpretation:
+
+- "Metal" is concentrated in Dick's stories.
+- "Network" and "Data" are concentrated in Doctorow's stories.
+- "System" appears across both periods but shifts meaning: mechanical/political in Dick, digital in Doctorow.
+
+The R results confirm the trends seen in Voyant. Shifts are measurable, not just visual.
+
+⸻
+
+## Section 4: Critical Reflection & Methodology
+
+### The Risks of Distant Reading
+
+In his chapter "The Risks of Distant Reading," Ted Underwood warns that while computational tools reveal large patterns, they can create a "narrow aperture" if we rely on them heavily. He notes that "There are many historical patterns too large to be explored through the narrow aperture of a single reader's memory" (Underwood 169).
+
+Reading these eight stories linearly, I might have missed the subtle, gradual decline of the word metal over 50 years. Voyant made this "large pattern" visible clearly. But there's also risk: as Underwood warns, this approach can "displace a more appropriately literary mode of insight" (Underwood 143). For example, Voyant counts Google in Scroogled as just a word. A human reader knows it represents the villain. So, the tool shows where patterns appear, but us humans must explain why they matter.
+
+⸻
+
+### Methodological Comparison: Interactive vs. Static
+
+Rockwell and Sinclair argue in Hermeneutica that tools like Voyant are designed for "playful" interpretation, letting users manipulate the text dynamically. In my process, this was obvious: I came across the metal/network connection by exploring the tools interactively.
+
+R Markdown, in contrast, is structured and precise. It counts everything first and lets the human analyze later. This is closer to what Kestemont and Herman call "machine reading," where the computer does the heavy lifting before humans intervene.
+
+Takeaway: Voyant is better for exploring ideas and spotting patterns quickly. R Markdown is better for confirming patterns and getting concrete counts.
+
+⸻
 
 ### Interpretation of Results
 
-The computational analysis supports my main hypothesis. While cyberpunk remains focused on fear and loss of agency, the form that fear takes changes over time. In the 1950s texts, danger comes from physical machines and war. In the 2000s texts, danger comes from invisible systems and networks.
+The analysis confirms the main hypothesis: cyberpunk fear and control shift over time.
 
-The Trends graph is the strongest piece of evidence because it shows a clear crossover point between industrial and digital language. This makes the shift easy to see, even without reading the stories closely.
+- In the 1950s texts, danger is physical—machines, metal, and war dominate.
+- In the 2000s texts, danger is systemic—data, networks, and software are central.
 
-### Human Context and Meaning
+The Trends graph is key because it shows this shift visually, without needing to read all eight stories closely. Voyant highlights where patterns are, while we humans explain what those patterns mean in context.
 
-Computational tools cannot understand narrative meaning on their own. For example, Voyant treats "Hendricks" as just a frequent word, but a human reader knows he is a tragic character manipulated by machines designed to imitate humans. The tool shows where themes appear, but humans still have to explain why they matter.
-
-Historical context also matters. The frequent use of words like "war" reflects Cold War fears of physical destruction. Modern cyberpunk reflects a different fear, being controlled or replaced by software systems.
+⸻
 
 ### Limitations and Biases
 
-This analysis has several limitations. First, the corpus is small. Eight stories are not enough to fully represent two entire eras of science fiction. One longer story can heavily influence word frequencies.
+1. Eight stories aren't enough to fully represent two eras of cyberpunk. One long story can skew results.
+2. Early versions of the text files were cluttered with licensing metadata, showing how easily analysis can mislead if preprocessing isn't careful.
+3. Voyant counts words but can't detect tone, irony, or semantic shift. For example, feed in the 1950s refers to food; in the 2000s it refers to data streams. Treating them the same can distort interpretation.
+4. Terms like war carry historical meaning (Cold War) that Voyant cannot infer. Humans must look for a meaning.
 
-Second, data cleaning had a major impact on results. Early versions of the analysis were dominated by licensing language. This shows how easily computational analysis can be misleading if the data is not carefully prepared.
-
-Finally, Voyant focuses on frequency, not meaning. It cannot detect irony, tone, or narrative importance. For instance, now adays a word such as cloud can mean a server on the internet, such a meaning for this word didn't exist in the 1950s which can give wrong interpretations of the text. 
+⸻
 
 ### Future Questions
 
 With a larger corpus, it would be interesting to isolate only Doctorow's texts and examine software-related control more closely. Another direction would be opionion based analysis to compare emotional tone across time.
+
+⸻
+
+## Works Cited
+
+### Primary Corpus
+
+Dick, Philip K. *The Defenders*. Project Gutenberg, 2010.
+
+Dick, Philip K. *Second Variety*. Project Gutenberg, 2010.
+
+Dick, Philip K. *The Variable Man*. Project Gutenberg, 2010.
+
+Dick, Philip K. *Mr. Spaceship*. Project Gutenberg, 2010.
+
+Doctorow, Cory. *Anda's Game*. Craphound.com, 2004.
+
+Doctorow, Cory. *When Sysadmins Ruled the Earth*. Craphound.com, 2006.
+
+Doctorow, Cory. *Scroogled*. Craphound.com, 2007.
+
+Doctorow, Cory. *Printcrime*. Craphound.com, 2006.
+
+### Secondary Sources
+
+Kestemont, Mike, and Luc Herman. "*Can Machines Read (Literature)?*" Umanistica Digitale, no. 5, 2019.
+
+Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016.
+
+Underwood, Ted. "*The Risks of Distant Reading.*" Distant Horizons: Digital Evidence and Literary Change, University of Chicago Press, 2019, pp. 143-169.
+
