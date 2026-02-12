@@ -85,7 +85,7 @@ This suggests that early cyberpunk focuses heavily on physical conflict and indi
 
 <iframe style='width: 461px; height: 242px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-d0f6ded4517b00c9630f0c617cc2255d&whiteList=&visible=75&corpus=d75fbe52b49d0d2d4e6468819da830ff'></iframe>
 
-*Figure 2: Word cloud highlighting dominant physical and military vocabulary.*
+*Figure 2: Word cloud highlighting physical and military vocabulary.*
 
 ⸻
 
