@@ -11,7 +11,7 @@ title: "Assignment 1: The Evolution of Control"
 
 ## Introduction
 
-Cyberpunk stories have circled fear. Fear of technology, fear of failing to stay in control, and fear of what happens when humans are no longer on top. However, the kind of technology people fear has changed over time. This paper looks at how cyberpunk fiction shifts from physical, industrial technology to digital software based systems. Instead of reading each story closely, I use computational analysis to look for patterns across multiple texts at once.
+Cyberpunk stories have circled around fear. Fear of technology, fear of failing to stay in control, and fear of what happens when humans are no longer on top. However, the kind of technology people fear has changed over time. This paper looks at how cyberpunk fiction shifts from physical, industrial technology to digital software based systems. Instead of reading each story closely, I use computational analysis to look for patterns across multiple texts at once.
 
 ⸻
 
@@ -83,7 +83,7 @@ As shown in Figure 2, words like "war," "ship," "surface," and "gun" dominate th
 
 This suggests that early cyberpunk focuses heavily on physical conflict and individual actors, often soldiers or men in combat situations. Modern digital terms exist, but they are less visually dominant in the combined corpus.
 
-![Figure 2: Word cloud highlighting dominant physical and military vocabulary.]({{ site.baseurl }}/assets/images/Unknown.jpg)
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?stopList=keywords-d0f6ded4517b00c9630f0c617cc2255d&panels=cirrus%2Creader%2Ctrends%2Clinks%2Ccontexts&corpus=d75fbe52b49d0d2d4e6468819da830ff'></iframe>
 
 *Figure 2: Word cloud highlighting dominant physical and military vocabulary.*
 
