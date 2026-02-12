@@ -9,35 +9,28 @@ title: "Assignment 1: The Evolution of Control"
 
 ---
 
-## Introduction
+## Overview
 
-Cyberpunk stories have circled around fear. Fear of technology, fear of failing to stay in control, and fear of what happens when humans are no longer on top. However, the kind of technology people fear has changed over time. This paper looks at how cyberpunk fiction shifts from physical, industrial technology to digital software based systems. Instead of reading each story closely, I use computational analysis to look for patterns across multiple texts at once.
+Cyberpunk fiction has always been about the fear of losing control. But as technology evolves, does the language of that fear change? This project uses computational text analysis to compare the "Industrial Cyberpunk" of the 1950s against the "Post-Cyberpunk" of the 2000s. Using [Voyant Tools](https://voyant-tools.org) for exploratory visualization and [R Markdown](https://posit.cloud/) (through posit cloud) for statistical frequency analysis, I track the shift from physical, hardware-based vocabulary to abstract, software-based systems.
 
 ⸻
 
-## Section 1: Corpus and Research Questions
+## Section 1: Corpus Selection & Provenance
 
-### Corpus Description
+### The Corpus
 
-My corpus is made up of eight science fiction short stories split into two groups. The first group contains four stories by Philip K. Dick, published around 1953. These texts come from early science fiction and are often viewed as a foundational pillar for cyberpunk themes. The second group contains four short stories by Cory Doctorow, published between 2004 and 2007, which represent a more modern, post cyberpunk era.
+My corpus consists of eight short stories divided into two sub-corpora:
 
-All texts were uploaded into [Voyant Tools](https://voyant-tools.org) as plain text files. Before analysis, I removed front matter and legal boilerplate so the corpus only contained narrative content. I also added stop-words to make sure they don't contaminate the results.
+- **The 1950s (Hardware):** Four stories by Philip K. Dick.
+- **The 2000s (Software):** Four stories by Cory Doctorow.
 
-### Why This Corpus
+### Provenance & Access
 
-I chose this corpus because Philip K. Dick and Cory Doctorow write in very different technological moments. Dick was writing during the Cold War and the industrial age, while Doctorow writes during the internet and information age. While both deal with technology and power, I suspected that the language they use to describe control would be different.
+I sourced the Philip K. Dick texts from Project Gutenberg, selecting the "Plain Text" versions to ensure compatibility with R and Voyant. Project Gutenberg was chosen for its reliability in preserving public domain science fiction. The Cory Doctorow texts were sourced directly from the author's personal website, Craphound.com. Doctorow publishes his work under Creative Commons licenses, allowing for legal text mining. This combination of Public Domain and Creative Commons texts allowed for a seamless, ethically sourced dataset.
 
-### Research Questions
+### Why This Selection?
 
-This project focuses on three main questions: 
-
-1. Does cyberpunk vocabulary shift from physical and industrial terms (like metal, ship, gun) to digital and abstract terms (like network, system, code)?
-2. How does the idea of control change across time, from physical control of machines to software based or systemic control?
-3. Does older cyberpunk rely more on physical violence compared to modern cyberpunk?
-
-### Why Computational Analysis
-
-A computational approach makes it possible to compare patterns across texts without focusing on just one story in depth. Using Voyant Tools allows me to do distant reading and visualize trends across a 50-year gap. These patterns would be hard to notice through close reading alone.
+I chose this pairing to test a specific hypothesis: that the "Cyberpunk" genre has undergone a fundamental vocabulary shift. Dick writes during the Cold War (fear of bombs/metal), while Doctorow writes in the Internet Age (fear of surveillance/data).
 
 ⸻
 
