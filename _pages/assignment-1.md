@@ -72,7 +72,7 @@ As shown in Figure 1, "metal" appears frequently in the Philip K. Dick stories y
 
 This confirms a shift in cyberpunk futures, physical materials like steel and machines are replaced with systems and digital infrastructure. This directly addresses the research question regarding whether speculative fiction shifts from industrial vocabulary to informational vocabulary over time.
 
-![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/Unknown.png)
+![Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.]({{ site.baseurl }}/assets/images/trends.png)
 
 *Figure 1: Trends graph comparing "metal" and "network" across the two sub-corpora.*
 
