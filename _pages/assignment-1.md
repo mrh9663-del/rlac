@@ -120,12 +120,12 @@ While Voyant provides exploratory visuals, R Markdown allows structured confirma
 
 ### Process:
 
-I used R to generate a frequency table of thematic nouns across the combined corpus, focusing on terms like metal, machine, network, system, data.
+I used R to generate a heatmap of thematic nouns across the combined corpus, focusing on terms like metal, machine, network, system, data.
 
 ### Result:
 
-![Figure 4: R Markdown frequency table showing key nouns across the corpus.]({{ site.baseurl }}/assets/images/Unknown-3.png)
-*Figure 4: R:Markdown Frequency Table*
+![Figure 4: R Markdown Heatmap showing key nouns across the corpus.]({{ site.baseurl }}/assets/images/heatmap.png)
+*Figure 4: R Markdown Heatmap*
 
 ### Interpretation:
 
