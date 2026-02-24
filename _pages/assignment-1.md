@@ -26,7 +26,7 @@ Does the imagined source of threat move from external physical destruction (bomb
 3. **Method Comparison:**
 What different insights emerge when the same corpus is analyzed using exploratory visualization tools Voyant Tools versus structured statistical analysis R Markdown?
 
-To answer these questions, I use computational text analysis to compare Philip K. Dick's 1950s short fiction with Cory Doctorow's 2000s short fiction. Using [Voyant Tools](https://voyant-tools.org) for exploratory data analysis and [R Markdown](https://posit.cloud/) in Posit Cloud for statistical confirmation, I track how key terms rise, fall, and cluster across a combined corpus.
+I use computational text analysis to compare Philip K. Dick's 1950s short fiction with Cory Doctorow's 2000s short fiction. Using [Voyant Tools](https://voyant-tools.org) for exploratory data analysis and [R Markdown](https://posit.cloud/) in Posit Cloud for statistical confirmation, I track how key terms rise, fall, and cluster across a combined corpus.
 
 ⸻
 
@@ -52,7 +52,7 @@ This corpus was chosen because it offers a comparison across time while remainin
 
 ### Tools Used
 
-I used Voyant Tools because it is accessible, visual, and well suited for comparing word usage across different subsets of a corpus. I applied a stopword list to remove common words, and character dialogue markers. 
+I used Voyant Tools as it is accessible, visual, and well suited for comparing word usage across different subsets of a corpus. I applied a stopword list to remove common words, and character dialogue markers. 
 
 ### Analysis Process
 
