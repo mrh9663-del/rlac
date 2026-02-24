@@ -125,6 +125,7 @@ I used R to generate a frequency table of thematic nouns across the combined cor
 ### Result:
 
 ![Figure 4: R Markdown frequency table showing key nouns across the corpus.]({{ site.baseurl }}/assets/images/Unknown-3.png)
+*Figure 4: R:Markdown Frequency Table*
 
 ### Interpretation:
 
