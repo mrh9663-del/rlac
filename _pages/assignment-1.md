@@ -60,7 +60,7 @@ All texts were uploaded into Voyant as a single combined corpus. I then used Voy
 
 ### Lexicon Selection
 
-Instead of doing research about the books in use, I decided to use the context of the concept introduced in the books to select the words I would use later in my search. This may not be the optimal way. However, it gives a different meaning to the results than distant reading to know the repetetive words. A result that may not align with the initial expectations of the corpus. 
+Instead of doing research about the books in use, I decided to use the context of the concept introduced in the books to select the words I would use later in my search. This may not be the optimal way. However, it gives a different meaning to the results than distant reading to identify the repetetive words. The results may or may not align with the initial expectations of the corpus. 
 
 ### Key Findings
 
