@@ -58,6 +58,10 @@ I used Voyant Tools as it is accessible, visual, and well suited for comparing w
 
 All texts were uploaded into Voyant as a single combined corpus. I then used Voyant’s (trends, cirrus, and links) tools to compare word frequencies and patterns across documents, interpreting differences based on the time period and author of each text.
 
+### Lexicon Selection
+
+Instead of doing research about the books in use, I decided to use the context of the concept introduced in the books to select the words I would use later in my search. This may not be the optimal way. However, it gives a different meaning to the results than distant reading to know the repetetive words. A result that may not align with the initial expectations of the corpus. 
+
 ### Key Findings
 
 #### Finding 1: The Shift from Metal to Network
@@ -88,7 +92,7 @@ As shown in Figure 2, words like "war," "ship," "surface," and "gun" dominate th
 
 **Meaning:**
 
-This suggests that early cyberpunk focuses heavily on physical conflict and individual actors, often soldiers or men in combat situations. Modern digital terms exist, but they are less visually dominant in the combined corpus.
+This suggests that early cyberpunk focuses heavily on physical conflict and individual actors, often soldiers or men in combat situations. Modern digital terms exist, but they are less visually dominant in the combined corpus. (Note: This word cloud is of all the 8 books, while some words may seem dominant from the older books it is not enough to reach a conclusion as the difference in frequency and number of words per book may differ and cause a big difference.)
 
 <iframe style='width: 461px; height: 242px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-d0f6ded4517b00c9630f0c617cc2255d&whiteList=&visible=75&corpus=d75fbe52b49d0d2d4e6468819da830ff'></iframe>
 
@@ -106,7 +110,7 @@ In Figure 3, "control" is closely linked with words like "turret," "ship," and "
 
 **Meaning:**
 
-This shows that in the older texts, control usually refers to operating or commanding physical machines or weapons. Control is something you hold with your hands, not something embedded in software or surveillance systems.
+This shows that in the older texts, control usually refers to operating or commanding physical machines or weapons. Control is something you hold with your hands, not something embedded in software or surveillance systems. The figure below shows the words linked to control only, there is nothing significant from the newer books.
 
 ![Figure 3: Network graph showing collocations of the word "control."]({{ site.baseurl }}/assets/images/Unknown-2.png)
 
