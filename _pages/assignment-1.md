@@ -215,4 +215,4 @@ Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Inter
 
 Underwood, Ted. "*The Risks of Distant Reading.*" Distant Horizons: Digital Evidence and Literary Change, University of Chicago Press, 2019, pp. 143-169.
 
-#### Ready for Grading?
+Ready for Grading?
