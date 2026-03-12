@@ -21,11 +21,11 @@ First, I uploaded my two images to both Gemini and Claude. I did not tell them a
 
 "Look at these two charts. Explain what they show and guess what the underlying text is about based ONLY on the visuals. Do not use the internet at all, do not look up the authors and do not ask me for more information. Just tell me what you see. Take a guess what the words used in the graph are. Answer in as little lines as possible."
 
-![Figure 1: Claude with No Context Given.](/assets/images/NoContext_Claude.png)
+![Figure 1: Claude with No Context Given.]({{ site.baseurl }}/assets/images/NoContext_Claude.jpg)
 
 *Figure 1: Claude with Zero Context Given.*
 
-![Figure 2: Gemini with No Context Given.](/assets/images/NoContext_Gemini.png)
+![Figure 2: Gemini with No Context Given.]({{ site.baseurl }}/assets/images/NoContext_Gemini.jpg)
 
 *Figure 2: Gemini with Zero Context Given.*
 
@@ -47,11 +47,11 @@ Next, I gave both LLMs the background information they were missing.
 
 "Now here is the context: These charts are based on 8 sci-fi short stories. Half are from the 1950s by Philip K. Dick, and half are from the 2000s by Cory Doctorow. My project tracks how technological fear shifts from physical hardware (metal, war) to digital networks (data, system) over 50 years. Knowing this, how do you interpret these charts now? You can use the internet. The words in the graph were metal and network. Answer in as little words as possible without losing key concepts."
 
-![Figure 3: Claude with Context Given.]({{ site.baseurl }}/assets/images/Context_Claude.png)
+![Figure 3: Claude with Context Given.]({{ site.baseurl }}/assets/images/Context_Claude.jpg)
 
 *Figure 3: Claude with Context Given.*
 
-![Figure 4: Gemini with Context Given.]({{ site.baseurl }}/assets/images/Context_Gemini.png)
+![Figure 4: Gemini with Context Given.]({{ site.baseurl }}/assets/images/Context_Gemini.jpg)
 
 *Figure 4: Gemini with Context Given.*
 
