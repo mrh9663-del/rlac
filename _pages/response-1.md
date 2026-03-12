@@ -21,11 +21,11 @@ First, I uploaded my two images to both Gemini and Claude. I did not tell them a
 
 "Look at these two charts. Explain what they show and guess what the underlying text is about based ONLY on the visuals. Do not use the internet at all, do not look up the authors and do not ask me for more information. Just tell me what you see. Take a guess what the words used in the graph are. Answer in as little lines as possible."
 
-![Figure 1: Claude with No Context Given.]({{ site.baseurl }}/assets/images/NoContext_Claude.png)
+![Figure 1: Claude with No Context Given.](/assets/images/NoContext_Claude.png)
 
 *Figure 1: Claude with Zero Context Given.*
 
-![Figure 2: Gemini with No Context Given.]({{ site.baseurl }}/assets/images/NoContext_Gemini.png)
+![Figure 2: Gemini with No Context Given.](/assets/images/NoContext_Gemini.png)
 
 *Figure 2: Gemini with Zero Context Given.*
 
