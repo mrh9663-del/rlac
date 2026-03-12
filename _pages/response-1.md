@@ -75,6 +75,8 @@ This process helped me realize how to make my writing with visuals better. Visua
 
 Data visualizations are vulnerable. They are amazing for proving a point, but they cannot make the argument for you. To avoid the reasoning errors Lisnic warns about, we have to contextualize our arguments by wrapping our charts in clear, human interpretation.
 
+Using 2 different LLMs also helped me prove that all LLMs work the same way, regardless of what engine they may be using. As seen both gemini and claude gave almost the same results showing that these results are not an anomaly but the reality that is even backed up using Maxim Lisnic’s article alongside the other articles cited in this report.
+
 ## Works Cited
 
 Kestemont, Mike, and Luc Herman. "Can Machines Read (Literature)?" Umanistica Digitale, no. 5, 2019.
