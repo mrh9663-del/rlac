@@ -84,4 +84,4 @@ Lisnic, Maxim. "How People Actually Lie With Charts." Visually Speaking, April 1
 Underwood, Ted. "The Risks of Distant Reading." Distant Horizons: Digital Evidence and Literary Change, University of Chicago Press, 2019, pp. 143-169.
 
 
-READY FOR GRADING
+<center>Ready for Grading</center>
