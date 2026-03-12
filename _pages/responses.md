@@ -9,7 +9,7 @@ Here are all the responses for this course:
 
 ## [Response 1](response-1/)
 
-Coming soon...
+The importance of context that is required alongside any visual, regardless of who analyzes the visuals.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 permalink: /responses/response-1/
-title: "The Importance of Context for Visual Communication"
+title: "Response 1: The Importance of Context"
 ---
 
 # The Importance of Context for Visual Communication
