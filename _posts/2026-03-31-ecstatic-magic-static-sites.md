@@ -84,7 +84,7 @@ The session introduced several tools that make building static sites easier:
 
 Jekyll is a static site generator. It takes simple text files (written in Markdown) and turns them into a full website.
 
-- Setup guide: https://jekyllrb.com/docs/step-by-step/01-setup/
+- Setup guide: [https://jekyllrb.com/docs/step-by-step/01-setup/]
 
 ⸻
 
@@ -92,9 +92,9 @@ Jekyll is a static site generator. It takes simple text files (written in Markdo
 
 GitHub Pages is a free hosting service that lets you publish your website online directly from a GitHub repository.
 
-- Official site: https://pages.github.com/
+- Official site: [https://pages.github.com/]
 
-- Beginner guide (how to make a site): https://pages.github.com/
+- Beginner guide (how to make a site): [https://pages.github.com/]
 
 This means you don't need to pay for hosting or manage servers. You just upload your files and your site is live.
 
@@ -104,7 +104,7 @@ This means you don't need to pay for hosting or manage servers. You just upload 
 
 Collection Builder is a tool designed for creating digital collections, such as archives or galleries.
 
-- Try CollectionBuilder: https://lib-static.github.io/models/ 
+- Try CollectionBuilder: [https://lib-static.github.io/models/] 
 
 It allows you to organize items using metadata (like titles, dates, and descriptions), which is especially useful for research projects.
 
@@ -114,9 +114,9 @@ It allows you to organize items using metadata (like titles, dates, and descript
 ## Example Projects from the Workshop
 
 The workshop showed real examples of static site projects:
-- https://go-dh.github.io/mincomp/about/
-- https://programminghistorian.org/en/
-- https://lib-static.github.io/models/ 
+- [https://go-dh.github.io/mincomp/about/]
+- [https://programminghistorian.org/en/]
+- [https://lib-static.github.io/models/]
 
 These examples demonstrate how static sites can be used to present collections, research, and exhibitions in a clean and organized way.
 
@@ -124,7 +124,7 @@ These examples demonstrate how static sites can be used to present collections, 
 
 ![Figure 2: Example of a website hosted using GitHub Pages]({{ site.baseurl }}/assets/images/Figure%202-Example%20of%20Static%20Site%20Presentation.jpeg)
 
-Figure 2: Example of a website hosted using GitHub Pages. Source: Wikimedia Commons
+Figure 2: Example of a website hosted using GitHub Pages. 
 
 ⸻
 
@@ -182,11 +182,11 @@ Static sites provide a way to:
 ## Resources for Beginners
 
 The workshop also provided useful learning resources:
-- https://jekyllrb.com/docs/step-by-step/01-setup/
-- https://guides.nyu.edu/digital-humanities/getting-started
-- https://lib-static.github.io/
-- https://jekyll-themes.com/
-- https://www.11ty.dev/docs/
+- [https://jekyllrb.com/docs/step-by-step/01-setup/]
+- [https://guides.nyu.edu/digital-humanities/getting-started]
+- [https://lib-static.github.io/]
+- [https://jekyll-themes.com/]
+- [https://www.11ty.dev/docs/]
 
 The presentation from the workshop can be found [here](https://docs.google.com/presentation/d/1IgLDA_iEVRlz7rZYgifEc1XniojIicyyA95PjQooZD0/edit?usp=sharing)
 
