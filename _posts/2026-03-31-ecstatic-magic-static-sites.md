@@ -1,7 +1,8 @@
 ---
 title: "EcStatic Magic: Making Static Sites for Digital Humanities Projects"
 date: 2026-03-31 21:30:00 +0400
-categories: workshop
+categories: 
+ - blog
 tags:
   - Extra Credit
   - Static Sites
