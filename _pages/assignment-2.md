@@ -59,7 +59,7 @@ This answers another guiding question: yes, co-authored texts affect clustering.
 
 The Bootstrap Consensus Tree confirms which clusters are stable. Authors like Dick and Norton show strong consistency, while Kuttner shows less. This proves that style is stable when the author is consistent, but unstable when multiple influences are involved.
 
-![Figure 3: Bootstrap Consensus Tree from 100-500 mfw.]({{ site.baseurl }}/assets/images/Bootstrap Consensus Tree.jpg)
+![Figure 3: Bootstrap Consensus Tree from 100-500 mfw.]({{ site.baseurl }}/assets/images/Bootstrap Consensus Tree.png)
 
 ---
 
@@ -150,5 +150,4 @@ Jockers, Matthew L. "On Distant Reading and Macroanalysis." *Matthew Jockers*, 1
 Underwood, Ted. "The Risks of Distant Reading." *Distant Horizons: Digital Evidence and Literary Change*, University of Chicago Press, 2019, pp. 143-169.
 
 
-**READY FOR GRADING**
 
