@@ -1,11 +1,13 @@
 ---
 permalink: /assignments/assignment-2/
-title: "Assignment 2"
+title: "Assignment 2: Comparison of Stylo and TF-IDF"
 ---
 
-# Assignment 2
+# Distant Reading the Future: A Comparison of Stylo and TF-IDF
 
-## Distant Reading the Future: A Comparison of Stylo and TF-IDF
+**Date:** 10/02/2026
+
+## Overview
 
 To read science fiction from the 1940s and 50s is to step into a world shaped by fear. The atomic bomb, the Cold War, and rapid technological change all show up in these stories. Writers imagined alien planets, machines and in some cases broken futures, however underneath that, they were  writing about their own reality. Normally, we study this by close reading: looking at themes and meaning inside individual texts.
 

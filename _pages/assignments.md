@@ -13,9 +13,9 @@ A computational text analysis project examining how cyberpunk fiction shifts fro
 
 ---
 
-## [Assignment 2](/assignments/assignment-2/)
+## [Assignment 2: Comparison of Stylo and TF-IDF](assignment-2/)
 
-Coming soon...
+A computational comparison and analysis project examining how different yet compatible the computational methods Style and TF-IDF are
 
 ---
 
