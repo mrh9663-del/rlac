@@ -149,5 +149,5 @@ Jockers, Matthew L. "On Distant Reading and Macroanalysis." *Matthew Jockers*, 1
 
 Underwood, Ted. "The Risks of Distant Reading." *Distant Horizons: Digital Evidence and Literary Change*, University of Chicago Press, 2019, pp. 143-169.
 
-
+**Ready for Grading**
 
